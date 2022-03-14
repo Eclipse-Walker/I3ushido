@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm I3ushido</h1>
+<h3 align="center">Forever Young ⌨️</h3>
 
-<!--
-**I3ushido/I3ushido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on **Refinitiv an LSEG**
+- 🌱 I’m currently learning **Flutter, SwiftUI**
+- 👯 I’m looking to collaborate with other **Developer**
+- 📫 How to reach me: **phisanuratv100@hotmail.com**
+- ⚡ Fun fact: **I love to watch movies**
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I3ushido&layout=compact&hide=html" alt="I3ushido" /></p>
+<br />
+<br />
+<br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I3ushido&show_icons=true" alt="I3ushido" /></p>
