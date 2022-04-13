@@ -12,12 +12,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I3ushido&layout=compact&hide=html" alt="I3ushido" /></p>
-<br />
-<br />
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I3ushido&show_icons=true" alt="I3ushido" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I3ushido&layout=compact&hide&theme=tokyonight" alt="I3ushido" /></p>
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I3ushido&theme=dracula)
 
