@@ -18,3 +18,7 @@
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I3ushido&show_icons=true" alt="I3ushido" /></p>
+
+![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I3ushido&theme=dracula)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=I3ushido&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
