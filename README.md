@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Refinitiv an LSEG**
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 - 👯 I’m looking to collaborate with other **Developer**
-- 📫 How to reach me: **phisanuratv100@hotmail.com**
+- 📫 How to reach me: **phisanurat.won@proton.me**
 - ⚡ Fun fact: **I love to watch movies**
 
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I3ushido&layout=compact&hide&theme=dracula)
