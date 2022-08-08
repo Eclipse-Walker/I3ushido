@@ -13,24 +13,28 @@
     <link rel="icon" type="image/x-icon" href="./assets/profileme-ico.ico">
 </head>
 
-<body>
+<body class="box">
+    <div class="overlay">
+        <div class="profiledata">
+            <div class="profile-name"> Hello, I'm</div>
+            <div class="profile-name2"> I3ushido </div>
+            <div class="profile-name3"> And I'm <span class="typing"></span></div>
+        </div>
+        <script src="script.js"></script>
 
-    <div class="profiledata">
-        <div class="profile-name"> Hello, I'm</div>
-        <div class="profile-name2"> I3ushido </div>
-        <div class="profile-name3"> And I'm <span class="typing"></span></div>
+        <img class="profile-picture" src="./assets/profileme.jpg" alt="profile">
+
+        <!-- links -->
+        <a href="https://github.com//I3ushido" class="links-github"><i class="fab fa-github"></i> Github</a>
+        <a href="https://www.linkedin.com/in/phisanurat-wongsitha-8288a61a7" class="links-linkedin"><i
+                class="fab fa-linkedin-in"></i> LinkedIn</a>
+
+        <div class="bottom-text">
+            <p class="copyright">Copyright 2022 © <a href="#">The I3ushido</a> All rights reserved</p>
+        </div>
     </div>
-    <script src="script.js"></script>
-    <img class="profile-picture" src="./assets/profileme.jpg" alt="profile">
-
-    <!-- links -->
-    <a href="https://github.com//I3ushido" class="links-github"><i class="fab fa-github"></i> Github</a>
-    <a href="https://www.linkedin.com/in/phisanurat-wongsitha-8288a61a7" class="links-linkedin"><i
-            class="fab fa-linkedin-in"></i> LinkedIn</a>
-
-    <div class="bottom-text">
-        <p class="copyright">Copyright 2022 © <a href="#">The I3ushido</a> All rights reserved</p>
-    </div>
+    <canvas id="c"></canvas>
+    <script src="matrix.js"></script>
 
 </body>
 
