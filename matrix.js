@@ -1,4 +1,4 @@
-var matrix = document.getElementById("c");
+var matrix = document.getElementById("background-matrix");
 var ctx = matrix.getContext("2d");
 
 matrix.height = window.innerHeight;
