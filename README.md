@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **LSEG (London Stock Exchange Group)**
+- 🔭 I’m currently working at a **LSEG (London Stock Exchange Group)**
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 - 👯 I’m looking to collaborate with other **Developer**
 - 📫 How to reach me: **phisanurat.won@proton.me**
