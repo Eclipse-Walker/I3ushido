@@ -74,6 +74,10 @@ module.exports = (env, { mode }) => {
             from: "./public/script.js",
             to: "./script.js",
           },
+          {
+            from: "./public/_config.yml",
+            to: "./_config.yml",
+          },
         ],
       }),
     ],
