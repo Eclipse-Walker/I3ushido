@@ -1,0 +1,27 @@
+{
+  "name": "I3ushido",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/I3ushido/I3ushido.git",
+  "author": "I3ushido <phisanurat.won@msu.ac.th>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack build --mode development",
+    "build:prod": "webpack build --mode production",
+    "build:type": "tsc --outDir ./types/ --declaration true --emitDeclarationOnly true && npm run copyPackageJson"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.3",
+    "tsconfig-paths-webpack-plugin": "^4.1.0",
+    "webpack-bundle-analyzer": "^4.9.1"
+  }
+}
