@@ -38,7 +38,7 @@ module.exports = (env, { mode }) => {
     output: {
       filename: "[name].js",
       assetModuleFilename: "[name][ext]",
-      path: path.resolve(__dirname, "dist"),
+      path: path.resolve(__dirname, "docs"),
       clean: true,
     },
     plugins: [

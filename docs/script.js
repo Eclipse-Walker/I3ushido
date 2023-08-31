@@ -1,0 +1,1 @@
+var typed=new Typed(".typing",{strings:["Software Engineer","Mobile Developer","I3ushido"],typeSpeed:110,backSpeed:90,cursorChar:" _",smartBackspace:!0,loop:!0});
