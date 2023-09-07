@@ -22,7 +22,7 @@ jobs:
 
     - name: Build and deploy to GitHub Pages
       run: |
-        build:prod
+        npm run build:prod
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         git checkout gh-pages
