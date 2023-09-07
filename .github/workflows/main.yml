@@ -28,4 +28,5 @@ jobs:
         git switch -c gh-pages
         git add .
         git commit -m "Auto deploy to GitHub Pages"
+        git pull origin gh-pages --rebase
         git push --set-upstream origin gh-pages
