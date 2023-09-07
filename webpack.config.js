@@ -21,7 +21,7 @@ module.exports = (env, { mode }) => {
     module: {
       rules: [
         {
-          test: /\.tsx?$/,
+          test: /\.ts?$/,
           use: "ts-loader",
           include: [path.resolve(__dirname, "src")],
           exclude: /node_modules/,
@@ -52,8 +52,8 @@ module.exports = (env, { mode }) => {
       new CopyPlugin({
         patterns: [
           {
-            from: "./src/versionManifest.json",
-            to: "./versionManifest.json",
+            from: "./src/manifest.json",
+            to: "./manifest.json",
             transform(content, path) {
               return modify(content);
             },
